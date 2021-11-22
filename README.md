@@ -1,4 +1,4 @@
-### Hi there 👋
+<figure><embed src="https://wakatime.com/share/@Anonymax/e4dc972d-6749-4a51-875a-154c73d9e696.svg"></embed></figure>
 
 <!--
 **anonymax25/anonymax25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
