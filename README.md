@@ -1,5 +1,5 @@
 <figure><embed src="https://wakatime.com/share/@Anonymax/e4dc972d-6749-4a51-875a-154c73d9e696.svg"></embed></figure>
-
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Anonymax/92ec58e8-b0be-4c41-88f0-54f840c78cb6.png" /></a>
 <!--
 **anonymax25/anonymax25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
