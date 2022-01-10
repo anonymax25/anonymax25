@@ -5,7 +5,7 @@
 
 #### Here are some of the languages I have used during last week
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Anonymax/516f80cd-efba-4018-b4c7-5a480a2c28c8.png" height="400px"/></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Anonymax/516f80cd-efba-4018-b4c7-5a480a2c28c8.png" height="550px"/></a>
 <!--
 **anonymax25/anonymax25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
