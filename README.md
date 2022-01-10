@@ -1,12 +1,11 @@
 
-### Hello :)
+#### Hello :)
 - 🔭 I’m currently working at school and at work
 - 🌱 I’m currently learning React Native
 
-### Here are some of the languages I have used
+#### Here are some of the languages I have used during last week
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Anonymax/5be9c58b-6501-4b34-9cd0-ee6838d8cded.png" height="400px"/></a>
-
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Anonymax/516f80cd-efba-4018-b4c7-5a480a2c28c8.png" height="400px"/></a>
 <!--
 **anonymax25/anonymax25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
