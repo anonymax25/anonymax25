@@ -1,7 +1,7 @@
 
 #### Hello :)
 - 🔭 I’m currently working at school and at work
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning Flutter / Dart
 
 #### Here are some of the languages I have used during last week
 
