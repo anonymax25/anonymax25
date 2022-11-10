@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning Flutter and K8s
 - 🔭 I’m currently looking into Rust
 
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Anonymax/516f80cd-efba-4018-b4c7-5a480a2c28c8.png" height="550px"/></a>
+
 <!--
 #### Here are some of the languages I have used during last week
 
