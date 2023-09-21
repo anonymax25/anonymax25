@@ -1,7 +1,6 @@
 
 #### Hello y'all o/
-- 🌱 I’m currently learning Flutter and K8s
-- 🔭 I’m currently looking into Rust
+- 🌱 I’m currently learning K8s and using it onpremise with K3S and RKE2
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Anonymax/516f80cd-efba-4018-b4c7-5a480a2c28c8.png" height="550px"/></a>
 
