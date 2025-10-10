@@ -1,6 +1,6 @@
 
 #### Hello all o/
-- 🌱 I’m currently learning K8s onpremise with K3S and RKE2
+- 🌱 I’m currently learning K8s onpremise with K3S and RKE2 and self hosting LLM models
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Anonymax/516f80cd-efba-4018-b4c7-5a480a2c28c8.png" height="550px"/></a>
 
